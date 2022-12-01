@@ -1,4 +1,5 @@
 # Szakdolgozat
 - anyagok, mentések
 -------------------
-TODO: bg befejezése, implementáslása
+TODO: - bg befejezése, implementáslása
+      - végleges hős elkészítése minden mozgási fázisban
